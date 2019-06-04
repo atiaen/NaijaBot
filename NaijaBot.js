@@ -147,5 +147,5 @@ bot.on('message', function (user, userID, channelID, message, evt) {
 		}
     }
 });
-client.login(process.env.hwBH-YbsjbaVEL9aBMA_FFoUyTz42AnZ);//BOT_TOKEN is the Client Secret
+client.login(process.env.NTg1Mzg1MzQyMzI5MTU5Njgx.XPYs8g.7T1iA6A4OlEEiGgiTNaXK3mw49Y);//BOT_TOKEN is the Client Secret
 				
