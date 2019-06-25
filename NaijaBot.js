@@ -150,7 +150,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
 client.on('message', msg => {
 if (msg.content === 'n!uptime') {
 	client.uptime;
-}
+)};
 
 
 client.login(process.env.NTg1Mzg1MzQyMzI5MTU5Njgx.XPYs8g.7T1iA6A4OlEEiGgiTNaXK3mw49Y);//BOT_TOKEN is the Client Secret
